@@ -1,0 +1,3 @@
+receiving_folder: '/folder/to/watch'
+renamed_folder: '/folder/to/move/to'
+new_name_xpath: '/Consignments/Consignment/Header/Reference'
